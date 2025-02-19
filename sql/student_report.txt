@@ -1,0 +1,6 @@
+Student Report
+---------------
+12390      Felly           Mery            18    Engineering          merry@gmail.com           0123986478     
+23098      Felicity        Kembo           23    Engineering          kembo@gmail.com           01127865       
+34567      Sony            Omari           21    Teaching             Sony@gmail.com            011234567      
+208764     Reci            Felop           19    Teaching             reci@gail.com             012793589      
